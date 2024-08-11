@@ -25,3 +25,6 @@ The analysis is divided into several parts:
 ## Results
 
 The results of the analysis provide insights into the behavior of bots and humans on social media platforms. For example, the degree distribution can show whether bots or humans tend to have more connections, and the clustering coefficient can show whether bots or humans tend to form more tightly-knit communities. The analysis of three separate graphs allows for a comparison of these metrics across different subsets of the data.
+
+## Colab Link
+[dankNodes - Colab Link](https://colab.research.google.com/github/KushalP47/dankNodes-SNA/blob/main/dankNodes.ipynb)
